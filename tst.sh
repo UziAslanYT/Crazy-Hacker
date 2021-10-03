@@ -68,8 +68,8 @@ echo -e '\033[31;40;1m
 '
 echo -e '
 \e[31m[01]\e[32mİnstagram			\e[31m[04]\e[32mFacebook
-\e[31m[02]\e[32mTwitter			\e[31m[05]\e[32mMail
-\e[31m[03]\e[32mWhatsapp			\e[31m[06]\e[32mGame (Oyunlar)
+\e[31m[Admin]\e[32mCrazyBot		\e[31m[05]\e[32mMail
+\e[31m[Admin]\e[32mCrazyBotPanel			\e[31m[06]\e[32mGame (Oyunlar)
 
 \e[31m[00] Code
 
